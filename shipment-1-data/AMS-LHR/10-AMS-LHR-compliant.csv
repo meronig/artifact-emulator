@@ -1,0 +1,17 @@
+2000;status;AmsStill
+8000;status;AmsMoving
+8000;status;HwMoving
+10000;status;HwStill
+11000;status;HwMoving
+11000;status;HwStill
+12000;status;HwMoving
+12000;status;HwStill
+16000;status;HwMoving
+18000;status;CoqStill
+23000;status;ChrStill
+25000;status;HwGBMoving
+28000;status;HwGBStill
+28000;status;HwGBMoving
+29000;status;LhrStill
+37000;status;LhrMoving
+37000;status;LhrStill
